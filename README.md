@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m David WOGLO<br>👀 I’m interested in Cloud, DevOps and IT automation<br>👯 I’m looking to collaborate on Cloud projects<br>📫 How to reach me : [here](https://davidwoglo.carrd.co/)
+👋 Hi, I’m David WOGLO<br>👀 I’m interested in Cloud, DevOps and IT automation<br>👯 I’m looking to collaborate on Cloud projects<br>📫 How to reach me : [here](https://linktr.ee/davidwoglo)
 
 
 ## 🌐 Socials:
