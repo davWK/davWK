@@ -103,7 +103,6 @@ status: shipping  # always
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **🗄️ Databases**
 
@@ -160,6 +159,6 @@ status: shipping  # always
 
 <br/><br/>
 
-<sub>⚡ <em>Reliability is not an accident — it's a design choice.</em></sub>
+<sub>⚡ <em>Reliability is not an accident, it's a design choice.</em></sub>
 
 </div>
